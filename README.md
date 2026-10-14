@@ -175,4 +175,11 @@ These thresholds and model parameters are implementation settings, not proof of 
 - Evaluate the model on a separate, documented test dataset.
 - Improve dashboard accessibility and mobile responsiveness.
 
+#### Contributors
+
+- **J Devi Sri Pranathi** 
+- **Manasvi Daga**
+
+
+
 
